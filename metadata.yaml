@@ -1,5 +1,5 @@
 _repo: Essays-on-Work-and-Culture_6143
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Conduct of life'
 - !lcsh 'Work'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: Tool or man? -- The man in the work -- Work as self-expression --
   The pain of youth -- The year of wandering -- The ultimate test -- Liberation --
   The larger education -- Fellowship -- Work and pessimism -- The educational attitude
